@@ -1,0 +1,22 @@
+{
+  "name": "lessonone",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vakaushish/LessonOne.git"
+  },
+  "author": "Varun Kaushish - Deloitte Digital <vakaushish@deloitte.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vakaushish/LessonOne/issues"
+  },
+  "homepage": "https://github.com/vakaushish/LessonOne#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
